@@ -24,8 +24,8 @@
 
 本项目包含的第三方源码或二进制文件遵循原版权标注。
 
-版权所有Copyright © 2017-2018 by 发源地大数据 (http://www.finndy.com)
-
-All rights reserved。
-
 发源地® 商标和著作权所有者为上海连源信息科技有限公司。
+
+版权所有Copyright © 2017-2018 by 发源地大数据 (http://www.finndy.com) All rights reserved。
+
+
